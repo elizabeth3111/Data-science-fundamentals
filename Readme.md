@@ -1,1 +1,4 @@
-Hola este es mi primer proyecto 
+# Proyecto: Data Science Fundamentals
+
+Incluye lo siguiente:
+* Fundamentos
